@@ -152,7 +152,7 @@ class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-200 ea
 
       {/* Main Content Wrapper */}
       {/* <div className="pt-[110px] overflow-y-auto">
-        Replace with actual page content
+      
         <p>Your main content goes here...</p>
       </div> */}
     </>
