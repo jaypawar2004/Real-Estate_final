@@ -8,7 +8,7 @@ const Login = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-md mx-auto bg-white rounded-lg overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300">
           <div className="text-center py-6 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
-            <h1 className="text-3xl font-bold">Welcome...</h1>
+            <h1 className="text-3xl font-bold">Welcome</h1>
             <p className="mt-2">Your Admin Panel</p>
           </div>
           <div className="p-8">
