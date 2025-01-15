@@ -307,7 +307,7 @@ const Admin = () => {
           </div>
 
           <div className="mb-4">
-            <label className="block mb-2">Upload Photo</label>
+            <label className="block mb-2">Upload Photo.</label>
             <input
               type="file"
               name="photo"
