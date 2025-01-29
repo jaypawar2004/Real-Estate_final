@@ -51,7 +51,7 @@ const BlogForm = ({ onAddBlog }) => {
         Add Blog
       </button>
     </form>
-    // End blogform
+  
   );
 };
 
