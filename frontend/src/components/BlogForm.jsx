@@ -18,7 +18,7 @@ const BlogForm = ({ onAddBlog }) => {
   };
 
   return (
-    // Form for Blog
+    
     <form
       onSubmit={handleSubmit}
       className="bg-white shadow-md rounded-lg p-6 mb-8 mt-[5vw]"
